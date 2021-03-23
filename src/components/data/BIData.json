@@ -1,0 +1,133 @@
+{
+    "strategicServices" : [
+        {
+            "service" : "Roadmap & Architecture", 
+            "content" : ["After deploying a BI Project, many organizations realize that their business intelligence strategy is not working and undergo several challenges.",
+                        " Many questions arise such as multiple technologies being utilized, inconsistent data, access to data, multiple instances of the same data, ownership, governance, security, performance and so on.",
+                        " Quadratic has a proven methodology that can answer all the above mentioned factors and improve your BI investment by using our maturity assessment.",
+                        " Our framework has gone through several evolutions based on relevant experiences, and we believe that decomposing the overall assessment strategy is the right approach for optimal results. The below figure illustrates Quadratic’s innovative framework to conduct a BI Maturity Assessment.", 
+                        " The above framework provides a complete landscape for the assessment strategy and will address several critical areas during the entire life cycle of the assessment."
+                        ],
+            "list" : ["Perform a complete health check of your current state of implementation.",
+                        "Provide you with guidance on best practices.",
+                        "Provide a roadmap to get you up the BI Intelligence maturity curve."
+            ],
+            "imageClass" : "archi"
+        },
+        {
+            "service" : "Tool Evaluation/Selection", 
+            "content" : ["The Business Intelligence market is overwhelmed with several vendors who offer attractive features, visualizations, cloud versions, etc.",
+                        " This is posing challenges for organizations to choose the right technology that suits their business needs.",
+                        " Quadratic has in-depth experience in assisting its clients to define, prioritize BI requirements and evaluates BI tool vendor landscape.",
+                        " During this phase Quadratic will narrow down the available services that are right for a specific organization and select the appropriate BI tool set that best fits the business objectives.",
+                        " We can help you achieve the following:"
+                    ],
+            "list" : ["Review and identify the immediate and future BI projects.",
+                        "Review and analyze the functional requirements for the immediate projects that are prioritized by the business.",
+                        "Prepare a detailed list of functional requirements to identify technical function points.",
+                        "Identify final one or two vendors and engage them for a POC focusing on key areas of concern and evaluate key factors such as Scalable, handle large amounts of data, no of users, -Proactive Delivery & Alerting mechanism, Web delivery, Security, Mobile capabilities and more."
+            ],
+            "imageClass" : "tools"
+        },
+        {
+            "service" : "Education & Training", 
+            "content" : ["After configuring, implementing, and deploying BI applications, end user training plays a key role to demonstrate the features and functionality of the BI application to the end users through classroom and lab exercises.",
+                        " It is extremely beneficial for the end users to become knowledgeable and skilled in the use of BI application.",
+                        " Quadratic has developed a BI custom training module which helps the users to understand not only the features and functionality of the BI application,",
+                        " but also the data and metadata that is available to them in the environment configured specifically to the organization.",
+                        " Our training module provides the users with an understanding of the structure of the BI configured environment, the associated business rules and definitions, as well as the functionality of the BI",
+                        " application but, most importantly, it simulates the learning experience pertaining to the client’s environment. We can help you achieve the following:"
+            ],
+            "list" : ["Develop a custom training module designed for the end users to understand the features and functionality of the BI application along with the data and metadata.",
+                        "Create custom training material that provides the users with the associated business rules and definitions in relation to the data.",
+                        "Design and create hands-on lab exercises.",
+                        "Design the “Train the Trainers” Program."
+            ],
+            "imageClass" : "training"
+        },
+        {
+            "service" : "Maturity Assessment", 
+            "content" : ["After deploying a BI Project, many organizations realize that their business intelligence strategy is not working and undergo several challenges.",
+                        " Many questions arise such as multiple technologies being utilized, inconsistent data, access to data, multiple instances of the same data, ownership, governance,",
+                        " security, performance and so on. Quadratic has a proven methodology that can answer all the above mentioned factors and improve your BI investment by using our maturity assessment.",
+                        " Our framework has gone through several evolutions based on relevant experiences, and we believe that decomposing the overall assessment strategy is the right approach for optimal results. The below figure illustrates Quadratic’s innovative framework to conduct a BI Maturity Assessment.", 
+                        " The below figure illustrates Quadratic’s innovative framework to conduct a BI Maturity Assessment. The above framework provides a complete landscape for the assessment strategy and will address several critical areas during the entire life cycle of the assessment."
+            ],
+            "list" : ["Perform a complete health check of your current state of implementation.",
+                        "Provide you with guidance on best practices.",
+                        "Provide a roadmap to get you up the BI Intelligence maturity curve."
+            ],
+            "imageClass" : "assesment"
+        }
+    ],
+    "applicationServices" : [
+        {
+            "service" : "Development Services", 
+            "content" : ["Quadratic’s BI development capabilities covers the complete spectrum which includes data integration, analysis,  reporting and analytical applications.",
+                        " We have a depth of knowledge and experience to design, develop, and implement BI project right from gathering requirements for the current or future business objectives.",
+                        " Some of the key services offered include: BI Architecture Design & Development, Dimensional Data Modeling, ETL Development & Reporting."
+                    ],
+            "list" : [],
+            "imageClass" : null
+        },
+        {
+            "service" : "Application Management & Support", 
+            "content" : ["The Business Intelligence market is overwhelmed with several vendors who offer attractive features, visualizations, cloud versions, etc.",
+                        " This is posing challenges for organizations to choose the right technology that suits their business needs.",
+                        " Quadratic has in-depth experience in assisting its clients to define, prioritize BI requirements and evaluates BI tool vendor landscape.",
+                        " During this phase Quadratic will narrow down the available services that are right for a specific organization and select the appropriate BI tool set that best fits the business objectives."
+                    ],
+            "list" : [],
+            "imageClass" : null
+        },
+        {
+            "service" : "Application Migration", 
+            "content" : ["The BI landscape is constantly evolving with new technology vendors, innovation, acquisitions.",
+                        " This phenomena has led to major changes in the consumption of Business Intelligence by many organizations and, as result of which, several BI migration projects have been surfacing constantly.",
+                        " There has been considerable increased interest shown by organizations in the BI platform migration due to long-term associated costs with licensing, maintenance, support, etc.\n\n",
+                        "Many organizations are looking to consolidate by using a single vendor approach because they simply don’t want to continue",
+                        " to administer multiple applications, across different technologies, with multiple security models and metadata tools to maintain.\n",
+                        "In addition, some organizations are looking to migrate from their existing BI Platforms due to scalability, product features, limitations, functionality, etc.",
+                        " Staying with the current trend and emerging technologies in the industry and use the best of breed technologies are other factors to consider.\n",
+                        "Finally, in some cases organizations have multiple BI platforms and are seeking to minimize costs, increase efficiency and adopt a simpler business",
+                        " processes by consolidating onto a single standard Business Intelligence platform.\n",
+                        "Quadratic, being one of the highly specialized firm in analytics, has successfully implemented many BI migration projects.<br />",
+                        "Our process is disciplined and starts with defining the scope to determine what needs to migrate, what processes can be improvised,",
+                        " what functionality and features can be effectively utilized for optimization in the new platform.\n",
+                        "Our team comes with cross platform knowledge and can implement the best practices with accurate estimates for each specific migration.\n",
+                        "Our experience in this area helps our customer reduce their risk and cost, as well as optimize timelines. We can help you achieve the following:"
+                    ],
+            "list" : ["Conduct a comprehensive review of the current BI environment and document.",
+                        "Identify gaps between the current requirements and design to fit these requirements in the new tool suite.",
+                        "Design and create hands-on lab exercises.",
+                        "Build a migration plan with detailed processes and migration procedures.",
+                        "Evaluate the tool for usage, stability, scalability and performance.",
+                        "Prepare a test strategy for complete UAT and regression testing.",
+                        "Build a customized training program to transition the users to the new environment."
+            ],
+            "imageClass" : null
+        },
+        {
+            "service" : "Application Upgrade", 
+            "content" : ["Technology is evolving faster than ever, and the BI Vendors are consistently releasing new upgrades to their respective BI platforms in the form of new functionality, optimized features etc.",
+                         " Especially with the advent of Big Data, BI vendors are releasing new features with advanced visualizations, etc. So upgrading existing BI applications is vitally important for any organization for the following reasons:"
+            ],
+            "list" : ["Improve operational excellence, enable innovation, and support new business models.",
+                        "Increase efficiency and to reduce total cost of ownership.",
+                        "Meet legal and compliance requirements in the future that will not be supported for older releases.",
+                        "Business users demand for new functionality that may not exist in current release.",
+                        "Avoid technological obsolescence or incompatibility with DB and OS upgrades."
+            ],
+            "additionalContent":{
+                "content" : ["Quadratic has a dedicated BI consulting practice and has the expertise to assist with any major BI application upgrade project. Our proven upgrade methodology and upgrade specific templates accelerate the total upgrade process. We can help you achieve the following:"],
+                "list" : ["Conduct a thorough Upgrade Assessment and build a Project Plan with associated timelines.",
+                        "Document upgrade features.",
+                        "Build an upgrade plan with detailed processes and upgrade procedures.",
+                        "Evaluate the tool for usage, stability, scalability and performance.",
+                        "Prepare a test strategy for complete UAT and regression testing."
+                ]
+            },
+            "imageClass" : null
+        }
+    ]
+}

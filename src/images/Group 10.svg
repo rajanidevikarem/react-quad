@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="735" height="576" viewBox="0 0 735 576">
+  <g id="Group_10" data-name="Group 10" transform="translate(-30 6)">
+    <text id="Connectors" transform="translate(294 36)" fill="#fff" font-size="40" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Connectors</tspan></text>
+    <text id="Ingestion" transform="translate(578 240)" fill="#fff" font-size="40" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Ingestion</tspan></text>
+    <text id="Projects" transform="translate(529 521)" fill="#fff" font-size="40" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Projects</tspan></text>
+    <text id="Model" transform="translate(205 556)" fill="#fff" font-size="40" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Model</tspan></text>
+    <text id="Deploy" transform="translate(30 248)" fill="#fff" font-size="40" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Deploy</tspan></text>
+  </g>
+</svg>

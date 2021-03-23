@@ -1,0 +1,56 @@
+{
+    "riskmanagementServices" : [
+        {
+            "service" : "Market Risk", 
+            "content" : ["Effective market risk management strategies enable organizations to make informed decisions.",
+                        " At Quadratic, we employ complete end-to-end advanced analytics to help organizations identify and manage the complex risks associated with the development, deployment and maintenance of complex models used for risk management, valuation, and financial and regulatory reporting purposes."
+                        ],
+                        "list" : [],
+                        "additionalContent":{
+                            "content" : ["Our market risk management strategies help organizations:"],
+                            "list" : ["Review risk management structure, policies, compliance, and governance",
+                                    "Develop and validate models such as consumer credit models, credit loss forecasting models, and models used to support Basel II economic capital estimates",
+                                    "Design & build and credit scorecards",
+                                    "Evaluate the tool for usage, stability, scalability and performance.",
+                                    "Develop mortgage loan valuation models"
+                            ]
+                        },
+            "imageClass" : null
+        },
+        {
+            "service" : "Fraud Risk", 
+            "content" : [" In today’s connected business environment, all organizations are subject to fraud.",
+                        " Organizations have traditionally enforced detective process controls, preventive measures and internal audits to prevent fraud. ",
+                        " With modern advanced analytical techniques currently available to effectively and efficiently detect fraudulent activity, we can build advanced models that can identify anomalies, trends and risk indicators in an organization. ",
+                         "Our systems help organizations audit all types of transactions, continuously or in real-time, allowing management and auditing teams to identify and report fraudulent activity more rapidly."
+                    ],
+                             
+            "list" : [],
+            "additionalContent":{
+                "content" : ["Quadratic has a dedicated BI consulting practice and has the expertise to assist with any major BI application upgrade project. Our proven upgrade methodology and upgrade specific templates accelerate the total upgrade process. We can help you achieve the following:"],
+                "list" : []
+                
+            },
+            "imageClass" : null
+        },
+        {
+            "service" : "Operational Risk", 
+            "content" : ["Operational risk measures risk associated with the people, processes and systems required to produce an organization’s product or service. ",
+                         " At Quadratics, our analytical capabilities to build advanced models and generate insights in the area of operational risk enables senior management to find a right balance between risk and reward, while complying with strict regulatory requirements."
+            ],
+            "list" : [],
+            "additionalContent":{
+                "content" : ["Our operational risk services help organizations:"],
+                "list" : ["Gain in-depth insights throughout the enterprise to effectively identify, monitor, and manage risks and controls across multiple processes of business within a comprehensive governance, risk, and compliance (GRC) framework.",
+                        "Identify and correct potential organizational non compliance and under performance issues.",
+                        "Provide a comprehensive store of knowledge to serve as a basis for standardizing governance, risk mitigation and effective control.",
+                        "Deliver on demand, actionable reporting on the current state of operational risk throughout the organization."
+                      
+                ]
+            },
+            "imageClass" : null
+        }
+       
+    ]
+  
+}

@@ -1,0 +1,39 @@
+{
+    "1":{
+        "title": "React js Developer",
+        "location": "Hyderabad",
+        "text": "React JS, JSON, JavaScript framework, Angular, Angular JS, web services.",
+        "description" : ["Writing reusable, testable, and efficient code in ReactJS",
+							"Estimate the level of development tasks within a project",
+							"Create new and update existing project modules",
+							"Integrate with back-end Restful APIs",
+							"Develops web pages using latest responsive design development techniques",
+							"MUST have Hands-on experience in ReactJS and delivered project on ReactJS and played key role.",
+							"Should have strong debugging Skills and working with Cross Browser UI",
+							"Having experience in Python is a big plus",
+							"Good Communication Skills"
+						],
+        "skills" : {
+			"primary": "React JS, JSON, JavaScript framework, Angular, Angular JS, web services.",
+			"secondary": " HTML5, CSS3, JavaScript / jQuery"
+        }
+    },
+    "2":{
+        "title": "Dot Net Developer",
+        "location": "United states",
+        "text": " .NET, C#, ASP.NET, SQL Server, HTML5, CSS3, JavaScript / jQuery",
+        "description" : [],
+        "skills" : {
+            
+        }
+    },
+    "3":{
+        "title": "Programmer Analyst",
+        "location": "United states",
+        "text": "Oracle, PLSQL Developer, SQL Developer, SQL*Plus, MVC.NET, Jira",
+        "description" : [],
+        "skills" : {
+            
+        }
+    }
+}
